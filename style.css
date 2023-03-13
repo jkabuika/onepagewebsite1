@@ -14,3 +14,7 @@ header {
     padding:  20px 50px;
 }
 
+.menu li {
+    list-style: none;
+    display: inline-block;
+}
