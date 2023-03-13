@@ -36,7 +36,7 @@ section {
     height: 100vh;
 }
 
-h1, h2, p {
+#home h1, h2, p {
     margin-left: 10px;
     padding-bottom:20px;
 }
