@@ -17,4 +17,17 @@ header {
 .menu li {
     list-style: none;
     display: inline-block;
+    margin: 20px;
+    font-size: 24px;
+}
+
+.section-links {
+    color: #000;
+    text-decoration: none;
+}
+
+section {
+    width: 100%;
+    float: left;
+    height: 100vh;
 }
