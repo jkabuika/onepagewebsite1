@@ -32,22 +32,38 @@ section {
     height: 100vh;
 }
 
-#home {
+h1, h2, p {
+    margin-left: 10px;
+    padding-bottom:20px;
+}
 
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+#home {
+    background-color: #362FD9;
 }
 
 #aboutme {
-
+    background-color: #3C84AB;
 }
 
 #product {
+    background-color: #85CDFD;
 
 }
 
 #pricing {
+    background-color: #DEFCF9;
 
 }
 
 #contact {
-
+    background-color: #85CDFD;
 }
+
