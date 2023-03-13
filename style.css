@@ -7,6 +7,10 @@
     font-family: "Roboto", sans-serif;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 nav {
     width: 100%;
     display: flex;
@@ -38,25 +42,32 @@ h1, h2, p {
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 80px;
 }
 
 h2 {
-    font-size: 30px;
+    font-size: 40px;
+}
+
+h2, img {
+    display: flex;
+    justify-content: space-between;
 }
 
 #home {
     background-color: #362FD9;
 }
 
+#home p {
+    font-size: 25px;
+}
+
+
+
 #aboutme {
-    background-color: #3C84AB;
-}
-
-#product {
     background-color: #85CDFD;
-
 }
+
 
 #pricing {
     background-color: #DEFCF9;
