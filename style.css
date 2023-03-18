@@ -127,3 +127,10 @@ footer h3 {
         height: 100vh;
     }
 }
+
+/* Screen sizes 700px and up */
+@media(min-width: 700px) {
+    .btn {
+        padding: 1rem 3rem;
+    }
+}
